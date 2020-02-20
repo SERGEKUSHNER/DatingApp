@@ -54,3 +54,11 @@ C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp
 C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\users_mqe5rjq\source\repos\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
